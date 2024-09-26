@@ -16,7 +16,7 @@ timezone:
 
 title: Ankan # the main title
 
-tagline: Rust and Blockchain developer.
+tagline: Web3 blabbers!
 
 description: >- # used by seo meta and the atom feed
   Exploring Web 3 ecosystems including Ethereum, Polkadot, and more.
@@ -98,7 +98,7 @@ theme_mode: dark
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/profile.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
